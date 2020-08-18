@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "@conswap/sdk",
   "license": "MIT",
   "version": "3.0.2",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
