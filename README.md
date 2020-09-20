@@ -2,8 +2,8 @@
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/Uniswap/co-swap-sdk/workflows/CI/badge.svg)](https://github.com/Uniswap/co-swap-sdk)
-[![npm version](https://img.shields.io/npm/v/@co-swap/sdk/latest.svg)](https://www.npmjs.com/package/@co-swap/sdk/v/latest)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@co-swap/sdk/latest.svg)](https://bundlephobia.com/result?p=@co-swap/sdk@latest)
+[![npm version](https://img.shields.io/npm/v/@coswap/sdk/latest.svg)](https://www.npmjs.com/package/@coswap/sdk/v/latest)
+[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@coswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@coswap/sdk@latest)
 
 In-depth documentation on this SDK is available at [co-swap.org](https://co-swap.org/docs/v2/SDK/getting-started/).
 
