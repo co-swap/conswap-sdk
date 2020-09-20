@@ -8,9 +8,9 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/co-swap-sdk.git",
+  "repository": "https://github.com/Uniswap/coswap-sdk.git",
   "keywords": [
-    "co-swap",
+    "coswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
